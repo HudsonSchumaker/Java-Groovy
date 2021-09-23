@@ -1,2 +1,2 @@
-# JavaGroovy
+# Java-Groovy
 Hello from Groovy!
