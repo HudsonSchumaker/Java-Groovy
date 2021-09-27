@@ -13,7 +13,7 @@ public class DisplayDialog extends javax.swing.JDialog {
         initComponents();
         // Step 2: Call the method in the Groovy class:
         String text = display.getText().toString();
-        //Step 3: Do something with the result:
+        // Step 3: Do something with the result:
         displayerField.setText(text);
     }
 
