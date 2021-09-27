@@ -11,7 +11,7 @@ public class DisplayDialog extends javax.swing.JDialog {
     public DisplayDialog(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
-        //Step 2: Call the method in the Groovy class:
+        // Step 2: Call the method in the Groovy class:
         String text = display.getText().toString();
         //Step 3: Do something with the result:
         displayerField.setText(text);
